@@ -24,3 +24,4 @@ This is a static website; no build command or framework preset is required.
 
 ## Before publishing
 Review the contact details, experience dates, credentials and project descriptions carefully. Add direct links to individual articles, project repositories and credential verification pages where available. Do not publish client-sensitive information.
+Portfolio deployment update
